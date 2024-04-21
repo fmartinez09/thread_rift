@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229858705877",
+    "project_id": "threadrift-a08ec",
+    "storage_bucket": "threadrift-a08ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229858705877:android:a399841b02ebf1a4d5fd5c",
+        "android_client_info": {
+          "package_name": "com.example.thread_rift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWbw6ahMYL09WfkbuUlXhxrA-SmOeiGFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
