@@ -25,8 +25,8 @@ final goRouterProvider = Provider<GoRouter>((ref) {
       ),
       GoRoute(
         path: '/login',
-        builder: (context, state) => const LoginScreenCupertino(),
-        pageBuilder: (context, state) => CustomCupertinoPage(key: state.pageKey, child: const LoginScreenCupertino()),
+        builder: (context, state) => const LoginScreen(),
+        pageBuilder: (context, state) => CustomCupertinoPage(key: state.pageKey, child: const LoginScreen()),
       ),
     ],
     redirect: (context, state) {
